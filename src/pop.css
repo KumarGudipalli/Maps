@@ -1,0 +1,15 @@
+.name_resturant{
+    position: absolute;
+    z-index:10 ;
+    background-color: aliceblue;
+    width: 100px;
+    height: 50px;
+    color: black;
+    
+
+}
+.Close{
+    margin-top: -20px;
+    margin-left: 390px;
+    cursor: pointer;
+}
